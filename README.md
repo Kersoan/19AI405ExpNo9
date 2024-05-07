@@ -1,6 +1,6 @@
-# ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-## Name: J NETHRAA
-## Register Number: 212222100031
+# Ex-No--09-Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
+## Name: Kersoan P
+## Register Number: 212221230050
 ## Aim:
 
 To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
